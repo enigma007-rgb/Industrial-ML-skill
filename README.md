@@ -1,3 +1,31 @@
+```
+The 'boring' ML skills that actually got me hired
+
+Adding to the "what do companies actually want" discourse
+
+What I spent mass time learning:
+
+- Custom architectures in pytorch
+- Kaggle competition strategies
+- Implementing papers from scratch
+- Complex rag pipelines
+
+What interviews actually asked about:
+
+- Walk me through debugging a slow model in production
+- How would you explain this to a product manager
+- Tell me about a time you decided NOT to use ml
+- Describe working with messy real world data
+
+What actually got me the offer: showed them a workflow I built where non engineers could see and modify the logic. Built it on vellum because I was too lazy to code a whole ui and that’s what vibe-coding agents are for. They literally said "we need someone who can work with business teams not just engineers."
+
+All my pytorch stuff? Didnt come up once.
+
+Not saying fundamentals dont matter. But if youre mass grinding leetcode and kaggle while ignoring communication and production skills youre probably optimizing wrong. At least for industry.
+
+```
+
+
 This is a really valuable reality check. You've hit on something that frustrates a lot of ML practitioners - the **massive gap between what we think we need to learn and what actually matters in industry roles**.
 
 Your experience mirrors what I hear constantly: companies aren't hiring you to be a research scientist (unless you're applying to research roles). They're hiring you to **make ML work in a business context**.
